@@ -19,3 +19,4 @@ class Solution:
         return
 a = Solution()
 print(a.twoSum([1,2,3,4], 3))
+
